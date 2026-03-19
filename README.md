@@ -3,6 +3,6 @@
 * It is selflearning, yet not aeyed itself. 
 * Usage is easy and selfexplanatory:
 *  I have aeyed this document/peinting/video together.
-   Even aeying it did not help.
-   This line was not aeyed.
-   and so on. 
+*  Even aeying it did not help.
+*  This line was not aeyed.
+*  and so on......
